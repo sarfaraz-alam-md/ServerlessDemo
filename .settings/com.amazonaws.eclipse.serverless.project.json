@@ -1,0 +1,1 @@
+{"packagePrefix":"com.serverless.demo","lastDeploymentRegionId":"us-east-1","regionConfig":{"ap-south-1":{"bucket":"lambda-function-bucket-ap-south-1-1572946064598","stack":"ServerlessDemo-stack"},"us-east-1":{"bucket":"codepipeline-us-east-1-954240577001","stack":"ServerlessArticle-stack"}}}
